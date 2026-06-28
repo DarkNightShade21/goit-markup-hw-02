@@ -9,7 +9,6 @@
   color: var(--navy-blue);
 }
 
-/* Полностью очистили от запрещенных max-width, padding, margin, shadows */
 .team-item {
   background-color: var(--white);
 }
