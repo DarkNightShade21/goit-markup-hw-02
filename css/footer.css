@@ -1,19 +1,5 @@
 .footer-section {
   background-color: var(--navy-blue);
-  padding: 40px 20px;
-  text-align: left; 
-}
-
-.footer-section .logo {
-  display: inline-block;
-  color: var(--iris);
-  margin-bottom: 16px;
-  font-family: "Raleway", sans-serif;
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
 }
 
 .footer-section .logo-light {
@@ -21,11 +7,9 @@
 }
 
 .footer-text {
+  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--cloud);
-  max-width: 264px;
-  text-align: left;
-  margin: 0; 
 }

@@ -1,24 +1,8 @@
-#portfolio {
-  padding: 40px 0;
-}
-
 .portfolio-title {
   font-size: 36px;
   line-height: 1.11;
-  text-align: center;
-  text-transform: capitalize;
   letter-spacing: 0.02em;
   color: var(--navy-blue);
-  margin-bottom: 32px;
-}
-
-#portfolio li {
-  margin-bottom: 48px;
-  text-align: left; 
-}
-
-#portfolio li:last-child {
-  margin-bottom: 0;
 }
 
 .portfolio-subtitle {
@@ -27,11 +11,10 @@
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--navy-blue);
-  margin-top: 20px;
-  margin-bottom: 8px;
 }
 
 .portfolio-text {
+  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
