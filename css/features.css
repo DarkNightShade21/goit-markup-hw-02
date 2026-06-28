@@ -1,0 +1,26 @@
+#features {
+  padding: 40px 0;
+}
+
+#features h2 {
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+#features li {
+  margin-bottom: 24px;
+  padding: 0 20px;
+}
+
+#features li:last-child {
+  margin-bottom: 0;
+}
+
+.features-subtitle {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: var(--navy-blue);
+  margin-bottom: 8px;
+}
